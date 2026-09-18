@@ -1,0 +1,14 @@
+{
+  "name": "ai-test-verification-lab",
+  "version": "1.0.0",
+  "description": "A free 10-minute lab: watch weak AI-generated tests pass against broken code, then verification catch the defects they miss.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node run-lab.js all",
+    "weak": "node run-lab.js weak",
+    "verify": "node run-lab.js verify-candidate",
+    "mutation": "node run-lab.js mutation"
+  },
+  "engines": { "node": ">=20" },
+  "license": "SEE LICENSE IN LICENSE"
+}
