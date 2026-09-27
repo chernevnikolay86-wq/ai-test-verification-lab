@@ -58,9 +58,12 @@ This lab is chapter one of **AI-Assisted Software Testing in Practice** — the 
 - a **local & offline** model chapter for regulated teams
 - reproduce the whole bundle with one command: `./verify.sh → BUNDLE GATE: PASS`
 
-**→ Get the bundle for $19 (launch price): https://nikolaychernev.gumroad.com/l/ai-testing-in-practice**
+**→ Kindle on Amazon ($9.99): https://www.amazon.com/dp/B0HL4SC5PX**
 
-*By N. Chernev, Lead Test Engineer — from an automotive and embedded software-testing background. Aligned with ISTQB CT-GenAI and ISO/IEC/IEEE 29119 (alignment is not endorsement).*
+**→ Full bundle (PDF + EPUB + 4 labs + builder) on Gumroad ($19): https://nikolaychernev.gumroad.com/l/ai-testing-in-practice**
+
+*By N. Chernev, Lead Test Engineer — from an automotive and embedded software-testing background. Aligned with ISTQB CT-
+GenAI and ISO/IEC/IEEE 29119 (alignment is not endorsement).*
 
 ## License
 
